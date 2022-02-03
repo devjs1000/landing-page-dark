@@ -1,0 +1,12 @@
+.progress::-webkit-progress-value {
+    background: rgb(235, 165, 35);
+  }
+
+  .link{
+      border-bottom: 2px solid transparent;
+    transition: .3s;
+  }
+  .link:hover{
+    border-bottom: 2px solid white;
+    
+}
